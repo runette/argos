@@ -1,2 +1,2 @@
-# argos
-Project Argos
+# Initial page
+
